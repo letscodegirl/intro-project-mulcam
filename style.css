@@ -177,20 +177,20 @@ footer {
 .bg-image {
   background-size: cover;
   background-position: center;
-  background-image: url('/imgs/stone.png');
+  background-image: url('imgs/stone.png');
 }
 
 .bg-stone {
-  background-image: url('/imgs/stone.png');
+  background-image: url('imgs/stone.png');
 }
 
 .bg-leaves {
-  background-image: url('/imgs/leaves-vert.jpg');
+  background-image: url('imgs/leaves-vert.jpg');
   background-position: 50% 31%;
 }
 
 .bg-venue {
-  background-image: url('/imgs/team.png');
+  background-image: url('imgs/team.png');
 }
 
 .shape-teardrop {
